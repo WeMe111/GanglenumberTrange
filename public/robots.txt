@@ -1,0 +1,7 @@
+# robots.txt for SEO
+# 모든 검색엔진 크롤러 허용
+User-agent: *
+Allow: /
+
+# 사이트맵 위치
+Sitemap: https://numbertokorean.com/sitemap.xml 
