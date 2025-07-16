@@ -42,7 +42,9 @@ export default function RootLayout({
     <html lang="ko">
       <Head>
         {/* canonical 태그: 실제 배포시 도메인으로 교체 */}
-        <link rel="canonical" href="https://numbertokorean.com/" />
+        <link rel="canonical" href="https://ganglenumber-trange.vercel.app/" />
+        {/* 구글 애드센스 광고 스크립트 */}
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1489120723407453" crossOrigin="anonymous"></script>
       </Head>
       <body>{children}</body>
     </html>
