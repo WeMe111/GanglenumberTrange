@@ -2,31 +2,31 @@
 <!-- sitemap.xml for SEO -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://numbertokorean.com/</loc>
+    <loc>https://ganglenumber-trange.vercel.app/</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://numbertokorean.com/about</loc>
+    <loc>https://ganglenumber-trange.vercel.app/about</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://numbertokorean.com/privacy-policy</loc>
+    <loc>https://ganglenumber-trange.vercel.app/privacy-policy</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://numbertokorean.com/terms</loc>
+    <loc>https://ganglenumber-trange.vercel.app/terms</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://numbertokorean.com/contact</loc>
+    <loc>https://ganglenumber-trange.vercel.app/contact</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://numbertokorean.com/roman</loc>
+    <loc>https://ganglenumber-trange.vercel.app/roman</loc>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://numbertokorean.com/hanja</loc>
+    <loc>https://ganglenumber-trange.vercel.app/hanja</loc>
     <priority>0.7</priority>
   </url>
 </urlset> 

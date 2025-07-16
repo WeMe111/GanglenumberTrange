@@ -4,4 +4,4 @@ User-agent: *
 Allow: /
 
 # 사이트맵 위치
-Sitemap: https://numbertokorean.com/sitemap.xml 
+Sitemap: https://ganglenumber-trange.vercel.app/sitemap.xml
